@@ -1,2 +1,2 @@
-# usa_housing
+# USA Housing ML Project
 * This is a simple machine learning project. It tries to estimate the prices of houses in America over the given data set.
